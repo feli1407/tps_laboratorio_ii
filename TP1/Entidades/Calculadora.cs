@@ -40,7 +40,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Valida que el operador sea -,+,/,* y en caso de que no lo sea retorna un +.
+        /// Valida que el operador sea -, +, /, * y en caso de que no lo sea retorna un +.
         /// </summary>
         /// <param name="operador">Operador</param>
         /// <returns>Operador validado o un + en caso de que no sea valido</returns>
