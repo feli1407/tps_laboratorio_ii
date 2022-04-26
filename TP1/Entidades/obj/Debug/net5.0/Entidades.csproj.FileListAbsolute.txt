@@ -7,6 +7,6 @@ C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\n
 C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
 C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
-C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
