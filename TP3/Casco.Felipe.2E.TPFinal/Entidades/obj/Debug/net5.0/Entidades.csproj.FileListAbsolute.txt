@@ -10,3 +10,15 @@ C:\Users\Felipe\OneDrive\Escritorio\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\
 C:\Users\Felipe\OneDrive\Escritorio\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 C:\Users\Felipe\OneDrive\Escritorio\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\Users\Felipe\OneDrive\Escritorio\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Felipe\OneDrive\Documentos\tps_laboratorio_ii\TP3\Casco.Felipe.2E.TPFinal\Entidades\obj\Debug\net5.0\ref\Entidades.dll
