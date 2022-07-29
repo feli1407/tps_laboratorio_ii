@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LPdwaT59C6TL21xMYIy5xloH0V1xSXjvb6bTAtBaBTKvwmxMuM06Aq+pUO9ykdps8mxE600vsUv6H4vYxBYKbA==",
+  "dgSpecHash": "hgmke7b9Qr80mrRM41nEemLfoMpaFcIC1lraDx8zr5LonUWZWMxCytV3V8J4UWwopRm1hL0+rA9w5MNz4KbHsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\Escritorio\\TP4\\Casco.Felipe.2E.TPFinal\\FrmLocalDeVideoJuegos\\FrmLocalDeVideoJuegos.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\Documentos\\tps_laboratorio_ii\\TP4\\Casco.Felipe.2E.TPFinal\\FrmLocalDeVideoJuegos\\FrmLocalDeVideoJuegos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
